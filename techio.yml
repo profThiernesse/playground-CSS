@@ -1,10 +1,10 @@
-title: PHP Project
+title: Exercices CSS
 plan:
-- title: PHP on Tech.io
+- title: CSS Base
   statement: markdowns/welcome.md
 projects:
   first-project:
-    root: /php-template
+    root: /html
     runner:
       name: php
       version: latest
