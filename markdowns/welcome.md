@@ -1,6 +1,12 @@
 # Welcome!
 
+```html
+<p>Premier paragraphe</p>
+<p class="maclasse">Deuxième paragraphe</p>
+<p id="monid">Troisième paragraphe</p>
+```
+
 
 # Hands-on Demo
 
-@[Essai]({"stubs": ["vide.html","css/style.css"], "command": "/bin/bash run.sh vide.html style.css"})
+@[Essai]({"stubs": ["css/style.css","base.html"], "command": "/bin/bash run.sh base.html style.css"})
