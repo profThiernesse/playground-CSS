@@ -7,5 +7,5 @@ php "header.php" $1 $2 > "output.html"
 #ls ../target -al
 #ls ../workspace -al
 
-# php Test.php $1".html" $2
+php Test.php $2 $3
 echo "TECHIO> open -s /project/target/ output.html"

@@ -9,4 +9,4 @@
 
 # Hands-on Demo
 
-@[Essai]({"stubs": ["css/style.css","base.html"], "command": "/bin/bash run.sh base.html style.css"})
+@[Essai]({"stubs": ["css/style.css","base.html"], "command": "/bin/bash run.sh base.html css/style.css css/check.css"})

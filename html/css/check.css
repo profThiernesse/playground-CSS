@@ -1,0 +1,12 @@
+p {
+    ^color$:.*;
+	border:solid;
+}
+
+.* {
+	^padding:[0-9]+px;
+}
+
+\#.* {
+	color:red;
+}
