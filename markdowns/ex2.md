@@ -1,6 +1,6 @@
 # Les sélecteurs
 
-L'adresse suivante fourni les références en terme de sélecteurs CSS : [https://www.w3schools.com/cssref/css_selectors.asp](https://www.w3schools.com/cssref/css_selectors.asp)
+L'adresse suivante fourni les références en terme de sélecteurs CSS : [W3Schools selector](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ## Exercice 1
 
