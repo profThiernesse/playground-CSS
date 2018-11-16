@@ -1,7 +1,9 @@
 title: Exercices CSS
 plan:
-- title: CSS Base
-  statement: markdowns/welcome.md
+- title: Introduction
+  statement: markdowns/introduction.md
+- title: Base CSS
+  statement: markdowns/ex1.md
 projects:
   first-project:
     root: /html
