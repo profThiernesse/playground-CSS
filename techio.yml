@@ -4,6 +4,8 @@ plan:
   statement: markdowns/introduction.md
 - title: Base CSS
   statement: markdowns/ex1.md
+- title: Sélecteurs
+  statement: markdowns/ex2.md
 projects:
   first-project:
     root: /html
