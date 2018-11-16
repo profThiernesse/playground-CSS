@@ -12,8 +12,6 @@
 
 		$css=$parser->parsed['main'];
 		$css_check=$checker->parsed['main'];
-
-		var_dump($css_check);
 		
 		$error_array=array();
 
