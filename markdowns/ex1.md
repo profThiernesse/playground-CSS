@@ -21,4 +21,4 @@ Pour cet exercice il faut :
 - Changer la couleur de fond et ajouter une marges intérieure aux éléments de class `maclasse`
 - Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'id `monid`
 
-@[Essai]({"stubs": ["css/style.css","base.html"], "command": "/bin/bash run.sh base.html css/style.css css/base1.css"})
+@[Essai]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base1.css"})
