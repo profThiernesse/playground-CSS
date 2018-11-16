@@ -24,3 +24,23 @@ sélecteur {
 Dans ces exercices de prise en main du CSS vous aurez toujours une page HTML préconstruite à votre disposion sur laquelle vous devrez appliquer des styles CSS.
 
 ## Exemple
+Le code `HTML` suivant existe.
+```html
+<article>
+	<h1>Mon article</h1>
+	<section>
+		<h2>Première section</h2>
+		<p>Premier paragraphe</p>
+	</section>
+	<section>
+		<h2>Deuxième section</h2>
+		<p>Deuxième paragraphe</p>
+		<p>Troisième paragraphe</p>
+	</section>
+</article>
+```
+Il faut faire en sorte que : 
+- Changer la couleur du texte de tous les paragraphes
+- Changer la couleur de fond de tous les titres 2
+
+@[Introduction]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh intro.html css/style.css css/intro.css"})
