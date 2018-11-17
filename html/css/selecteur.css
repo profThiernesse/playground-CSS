@@ -11,19 +11,19 @@ body {
     text-decoration:underline;   
 }
 
-article > h2 {
+article *> *h2 {
     color:blue;   
 }
 
-section > h2 {
+section *> *h2 {
     color:green;   
 }
 
-h2 \+ p {
+h2 *\+ *p {
     font-style:italic;
     color:red;   
 }
 
-h1 ~ p {
+h1 *~ *p {
     color:violet;   
 }
