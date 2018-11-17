@@ -1,0 +1,29 @@
+body {
+    font-family:helvetica;    
+}
+
+h1 {
+    text-align:center;
+    color:red;
+}
+
+h2 {
+    text-decoration:underline;   
+}
+
+article > h2 {
+    color:blue;   
+}
+
+section > h2 {
+    color:green;   
+}
+
+h2 + p {
+    font-style:italic;
+    color:red;   
+}
+
+h1 ~ p {
+    color:violet;   
+}
