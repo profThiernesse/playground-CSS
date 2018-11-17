@@ -20,10 +20,12 @@ Le jeu se trouve à cette adresse : [CSS Diner](https://flukeout.github.io/).
 		<h2>Mon Titre 2</h2>
 		<p>Troisième paragraphe</p>
 		<p>Quatrième paragraphe</p>
+		<section>
+			<h2>Mon Titre 3</h2>
+			<p>Cinquième paragraphe</p>
+			<p>Sixième paragraphe</p>		
+		</section>
 	</article>
-	<h2>Mon Titre 3</h2>
-	<p>Cinquième paragraphe</p>
-	<p>Sixième paragraphe</p>
 </section>
 ```
 :::
