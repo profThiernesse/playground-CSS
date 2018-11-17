@@ -1,0 +1,11 @@
+p {
+    ^color$:(blue|\#0000FF);
+}
+
+\.maclasse {
+	^color$:(green|\#00FF00);
+}
+
+\#monid {
+	^color$:(red|\#FF0000);
+}
