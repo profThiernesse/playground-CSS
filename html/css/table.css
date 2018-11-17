@@ -1,0 +1,12 @@
+(table )?td {
+    border:.*;
+    padding:.*;
+}
+
+(table )?tr:nth-child(odd) {
+    background-color:.*;   
+}
+
+(table )?tr:last-child {
+    color:.*;   
+}
