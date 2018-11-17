@@ -22,7 +22,7 @@ Le jeu se trouve à cette adresse : [CSS Diner](https://flukeout.github.io/).
 		<p>Quatrième paragraphe</p>
 	</article>
 	<article>
-		<h2Mon Titre 3</h2>
+		<h2>Mon Titre 3</h2>
 		<p>Cinquième paragraphe</p>
 		<p>Sixième paragraphe</p>
 	</article>
