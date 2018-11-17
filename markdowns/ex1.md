@@ -7,10 +7,21 @@ Les exercices ci-après doivent permettre d'utiliser les sélecteurs de base du 
 Tous les exercices de cette page utilises le code HTML ci-après comme base.
 
 ```html
-<p>Premier paragraphe</p>
-<p class="maclasse">Deuxième paragraphe</p>
-<p>Troisième paragraphe</p>
-<p id="monid">Quatrième paragraphe</p>
+<section>
+	<h1>Mon titre 1</h1>
+	<article>
+		<h2>Mon Titre 2</h2>
+		<p>Premier paragraphe</p>
+		<p class="maclasse">Deuxième paragraphe</p>
+		<p>Troisième paragraphe</p>
+		<p id="monid">Quatrième paragraphe</p>
+	</article>
+	<article>
+		<h2 class="maclasse">Mon Titre 3</h2>
+		<p id="superid" class="maclasse">Cinquième paragraphe</p>
+		<p>Sixième paragraphe</p>
+	</article>
+</section>
 ```
 
 
