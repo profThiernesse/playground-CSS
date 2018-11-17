@@ -21,16 +21,15 @@ Le jeu se trouve à cette adresse : [CSS Diner](https://flukeout.github.io/).
 		<p>Troisième paragraphe</p>
 		<p>Quatrième paragraphe</p>
 	</article>
-	<article>
-		<h2>Mon Titre 3</h2>
-		<p>Cinquième paragraphe</p>
-		<p>Sixième paragraphe</p>
-	</article>
+	<h2>Mon Titre 3</h2>
+	<p>Cinquième paragraphe</p>
+	<p>Sixième paragraphe</p>
 </section>
 ```
 :::
 
 En utilisant les sélecteurs réaliser les mises en forme suivante :
-
+- les titres 1 doivent être centrés et écrit en rouge
+- les t
 
 @[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh selecteur.html css/style.css css/selecteur.css"})
