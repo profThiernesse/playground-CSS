@@ -52,6 +52,7 @@
 	</tr>
 </table>
 ```
+:::
 
 Pour cette exercice, il faut : 
 - mettre une bordure et une marge interne sur chaque case du tableau.
