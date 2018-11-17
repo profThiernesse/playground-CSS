@@ -1,0 +1,11 @@
+section {
+    ^color$:(green|\#FF0000);
+}
+
+p {
+	font-size:14px;
+}
+
+h2 {
+	font-size:2vw;
+}

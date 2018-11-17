@@ -27,9 +27,17 @@ Tous les exercices de cette page utilises le code HTML ci-après comme base.
 
 ## Exercice 1
 
-Pour cet exercice il faut : 
+Pour cet exercice, il faut : 
 - Changer la couleur du texte de tous les paragraphes
 - Changer la couleur de fond et ajouter une marges intérieure aux éléments de class `maclasse`
 - Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'id `monid`
 
-@[Essai]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base1.css"})
+@[Exerice 1]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base1.css"})
+
+## Exercice 2
+Pour cet exercice, il faut :
+- Définir la couleur de texte des sections en vert
+- Définir la taille de police des paragraphes à 14px
+- Définir la taille de police des titres 2 à 2vw
+
+@[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base2.css"})
