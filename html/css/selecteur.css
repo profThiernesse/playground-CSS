@@ -19,7 +19,7 @@ section > h2 {
     color:green;   
 }
 
-h2 + p {
+h2 \+ p {
     font-style:italic;
     color:red;   
 }
