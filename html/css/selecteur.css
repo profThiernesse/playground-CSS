@@ -2,12 +2,12 @@ body {
     font-family:helvetica;    
 }
 
-h1 {
+^h1$ {
     text-align:center;
     color:red;
 }
 
-h2 {
+^h2$ {
     text-decoration:underline;   
 }
 
