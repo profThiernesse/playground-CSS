@@ -1,5 +1,5 @@
 section {
-    ^color$:(green|\#FF0000);
+    ^color$:(green|\#00FF00);
 }
 
 p {
@@ -8,4 +8,9 @@ p {
 
 h2 {
 	font-size:2vw;
+	font-family:Helvetica;
+}
+
+h1 {
+    font-size:2.5em;
 }

@@ -6,6 +6,8 @@ Les exercices ci-après doivent permettre d'utiliser les sélecteurs de base du 
 
 Tous les exercices de cette page utilises le code HTML ci-après comme base.
 
+::: Code HTML
+
 ```html
 <section>
 	<h1>Mon titre 1</h1>
@@ -24,6 +26,7 @@ Tous les exercices de cette page utilises le code HTML ci-après comme base.
 </section>
 ```
 
+:::
 
 ## Exercice 1
 
@@ -37,7 +40,25 @@ Pour cet exercice, il faut :
 ## Exercice 2
 Pour cet exercice, il faut :
 - Définir la couleur de texte des sections en vert
+- Définir la taille de police des titres 1 à 2.5em et petites majuscules
 - Définir la taille de police des paragraphes à 14px
-- Définir la taille de police des titres 2 à 2vw
+- Définir la taille de police des titres 2 à 2vw et la police de caractère en Helvetica
 
 @[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base2.css"})
+
+### Question
+?[Dans l'exercice 2, la totalité du texte apparaît-elle en vert ?]
+-[ ] Oui, mais ce n'est pas normal. 
+-[x] Oui, c'est normal tout les textes dans la section ont hérités de cette propriété.
+-[ ] Non, aucun texte n'apparaît directement dans la section.
+
+## Exercice 3
+
+@[Exerice 3]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base3.css"})
+
+### Question
+?[Quel est l'ordre de propriété pour l'application des styles (du plus prioritaire au moins prioritaire)?]
+-[ ] Balise - Classe - Identifiant
+-[ ] Classe - Identifiant - Balise
+-[ ] Identifiant - Balise - Classe
+-[x] Identifiant - Classe - Balise
