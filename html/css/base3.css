@@ -6,6 +6,6 @@ p {
 	^color$:(green|\#00FF00);
 }
 
-\#monid {
+\#superid {
 	^color$:(red|\#FF0000);
 }

@@ -33,7 +33,7 @@ Tous les exercices de cette page utilises le code HTML ci-après comme base.
 Pour cet exercice, il faut : 
 - Changer la couleur du texte de tous les paragraphes
 - Changer la couleur de fond et ajouter une marges intérieure aux éléments de classe `maclasse`
-- Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'id `monid`
+- Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'identifiant `monid`
 
 @[Exerice 1]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base1.css"})
 
@@ -63,8 +63,7 @@ Pour cet exercice, il faut :
 Pour cet exercice, il faut : 
 - Changer la couleur du texte de tous les paragraphes en bleu
 - Changer la couleur du texte des éléments de classe `maclasse` en vert
-- Changer la couleur du texte des éléments d'id `monid` en rouge
-
+- Changer la couleur du texte des éléments d'identifiant `superid` en rouge
 
 @[Exerice 3]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base3.css"})
 
@@ -75,3 +74,7 @@ Pour cet exercice, il faut :
 -[x] Identifiant - Classe - Balise
 -[ ] Identifiant - Balise - Classe
 :::
+
+## Exercice 4
+
+@[Exerice 4]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base4.css"})
