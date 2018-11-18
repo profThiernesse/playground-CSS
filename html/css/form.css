@@ -1,4 +1,4 @@
-input {
+^input$ {
     display:block;
     margin:[0-9]*px;
     width:200px;
@@ -15,14 +15,14 @@ label {
     float:left;
 }
 
-input\[type=submit\] {
+^input\[type=submit\]$ {
     text-align:center;
     width:400px;
     font-weight:bold;
     background-color:.*;
 }
 
-input:focus {
+^input:focus$ {
     border:2px;   
     border:.*;   
     border:solid ;   
