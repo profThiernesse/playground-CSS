@@ -88,7 +88,7 @@ Pour cette exercice, il faut :
 
 Pour cet exercice, il faut :
 
-:::Résultat
+:::Résultat attendu
 ![Résultat](images/form_result.jpg)
 :::
 
