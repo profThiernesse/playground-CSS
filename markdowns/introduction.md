@@ -3,13 +3,13 @@ Le CSS est un langage venant en complément du HTML.
 - CSS signifie *Cascading Style Sheet*.
 - Il permet de mettre en forme la page web.
 - On peut écrire le code CSS à plusieurs endroits différents, le plus conseillé étant de créer un fichier séparé portant l'extension `.css`
-- Le CSS utilise des sélecteur pour appliquer la mise en forme aux éléments HTML ciblés.
+- Le CSS utilise des sélecteurs pour appliquer la mise en forme aux éléments HTML ciblés.
 - Il existe de nombreux sélecteur CSS : 
 	- Les sélecteurs de balise.
 	- Les sélecteurs de classe `.`.
-	- Les sélecteur d'identifiant `#`.
+	- Les sélecteurs d'identifiant `#`.
 	- Des combinaisons des trois précédents.
-- Attention à la compatibilité inter-navigateur. Une commande inconnue est ignorée.
+- Attention à la compatibilité inter-navigateurs. Une commande inconnue est ignorée.
 
 Une définition CSS se présente comme suit : 
 ```css
@@ -39,8 +39,8 @@ Le code `HTML` suivant existe.
 	</section>
 </article>
 ```
-Il faut faire en sorte que : 
+Il faut faire en sorte de : 
 - Changer la couleur du texte de tous les paragraphes
-- Changer la couleur de fond de tous les titres 2
+- Changer la couleur de fond de tous les titres de niveau 2
 
 @[Introduction]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh intro.html css/style.css css/intro.css"})
