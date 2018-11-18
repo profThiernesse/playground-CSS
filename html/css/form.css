@@ -1,18 +1,18 @@
 input {
-    ^display$:^block$;
-    ^margin:[0-9]*px;
-    ^width$:200px;
-    ^border-radius$:[0-9]*px;
-    ^padding:[0-9]*px;
-    ^border:1px;
-    ^border:solid;
-    ^border:black;
+    display:block;
+    margin:[0-9]*px;
+    width:200px;
+    border-radius:[0-9]*px;
+    padding:[0-9]*px;
+    border:1px;
+    border:solid;
+    border:black;
 }
 
 label {
-    ^display$:block;
-    ^width$:100px;
-    ^float$:left;
+    display:block;
+    width:100px;
+    float:left;
 }
 
 input\[type=submit\] {
