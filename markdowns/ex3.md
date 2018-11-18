@@ -92,4 +92,12 @@ Pour cet exercice, il faut :
 ![Résultat](images/form_result.jpg)
 :::
 
+:::Propriétés utiles
+- Toutes celles déjà rencontrées
+- [`display`](https://www.w3schools.com/cssref/pr_class_display.asp) 
+- [`float`](https://www.w3schools.com/cssref/pr_class_float.asp) 
+- [`border-radius`](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
+- Informations complémentaire sur les [`form` et le CSS](https://www.w3schools.com/css/css_form.asp)
+:::
+
 @[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh form.html css/style.css css/form.css"})
