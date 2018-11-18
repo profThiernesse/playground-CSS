@@ -9,7 +9,7 @@ p {
 
 h2 {
 	font-size:2vw;
-	font-family:Helvetica;
+	font-family:(Helvetica|helvetica);
 }
 
 h1 {
