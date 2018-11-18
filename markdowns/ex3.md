@@ -88,4 +88,8 @@ Pour cette exercice, il faut :
 
 Pour cet exercice, il faut :
 
+:::Résultat
+![Résultat](images/form_result.jpg)
+:::
+
 @[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh form.html css/style.css css/form.css"})
