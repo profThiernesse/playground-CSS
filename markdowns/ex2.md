@@ -28,13 +28,13 @@ Le jeu se trouve à cette adresse : [CSS Diner](https://flukeout.github.io/).
 ```
 :::
 
-En utilisant les sélecteurs réaliser les mises en forme suivante :
-- le corps du document doit être écrit en helvitica.
-- les titres 1 doivent être centrés et écrit en rouge.
-- tous les titres 2 doivent soulignés.
-- les titres 2 dans les sections doivent être vert.
-- les titres 2 dans les articles doivent être bleu.
-- les paragraphes suivants directement un titre 2 doivent être en rouge italique.
-- les paragraphes suivants un titre 1 doivent être violet.
+En utilisant les sélecteurs réaliser les mises en forme suivantes :
+- le corps du document doit être écrit en helvetica.
+- les titres de niveau 1 doivent être centrés et écrits en rouge.
+- tous les titres de niveau 2 doivent soulignés.
+- les titres de niveau 2 dans les sections doivent être verts.
+- les titres 2 de niveau dans les articles doivent être bleus.
+- les paragraphes suivant directement un titre de niveeau 2 doivent être en rouge italique.
+- les paragraphes suivant un titre de niveau 1 doivent être en violet.
 
 @[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh selecteur.html css/style.css css/selecteur.css"})
