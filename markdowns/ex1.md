@@ -4,7 +4,7 @@ Les exercices ci-après doivent permettre d'utiliser les sélecteurs de base du 
 
 ## Base HTML
 
-Tous les exercices de cette page utilises le code HTML ci-après comme base.
+Tous les exercices de cette page utilisent le code HTML ci-après comme base.
 
 ::: Code HTML
 
