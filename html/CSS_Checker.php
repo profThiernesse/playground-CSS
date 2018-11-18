@@ -13,6 +13,8 @@
 		$css=$parser->parsed['main'];
 		$css_check=$checker->parsed['main'];
 		
+		var_dump($css_checker);
+		
 		$error_array=array();
 
 		foreach ($css_check as $selector => $properties) {
