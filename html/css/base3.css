@@ -1,5 +1,5 @@
 p {
-    ^color$:(blue|\#0000FF);
+    ^color$:blue;
 }
 
 \.maclasse {
