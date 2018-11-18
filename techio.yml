@@ -6,7 +6,7 @@ plan:
   statement: markdowns/ex1.md
 - title: Sélecteurs
   statement: markdowns/ex2.md
-- title: Pseudo classe
+- title: Finale
   statement: markdowns/ex3.md
 projects:
   first-project:

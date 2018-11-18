@@ -1,0 +1,33 @@
+input {
+    display:block;
+    margin:5px;
+    width:200px;
+    border-radius:5px;
+    padding:5px;
+    border:1px solid black;
+}
+
+label {
+    display:block;
+    width:100px;
+    float:left;
+}
+
+input[type=submit] {
+    text-align:center;
+    margin:0;
+    width:400px;
+    font-weight:bold;
+    background-color:YellowGreen;
+}
+
+input:focus {
+    border: 2px solid blue;   
+}
+
+form {
+    width:400px;
+    font-family:helvetica;
+    margin: auto;
+    margin-top:100px;
+}

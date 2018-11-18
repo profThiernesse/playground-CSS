@@ -1,6 +1,5 @@
-# Les pseudos-classes
-
-## Exercice 1
+# Final 
+## Exercice 1 - Pseudo-classes
 
 :::Tableau
 ```html
@@ -61,7 +60,7 @@ Pour cette exercice, il faut :
 
 @[Exerice 1]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh table.html css/style.css css/table.css"})
 
-## Exercice 2
+## Exercice 2 - Formulaire et positionnement	
 
 ::: Formulaire
 ```html
@@ -87,6 +86,11 @@ Pour cette exercice, il faut :
 :::
 
 Pour cet exercice, il faut :
+- Les textes du formulaire sont en Helvetica, la largeur globale du formulaire est de 400px, il doit être centré dans la page et écarter du bord supérieur de la page de 100px.
+- Des input avec une bordure noire continue de 1 pixel, des bords arrondis, une largeur fixée à 200px et faire en sorte que les champs soient espacés les uns des autres. Attention à ne pas commencer la frappe dans l'arrondi du champ.
+- Des label de 100px de large à gauche des champs de saisie.
+- Le bouton d'envoie doit avoir une couleur de fond modifiée, faire 400px de large et l'écriture doit être en gras au centre du bouton.
+- L'input ayant le focus doit avoir un bord de 2px bleu.
 
 :::Résultat attendu
 ![Résultat](images/form_result.jpg)
@@ -97,6 +101,7 @@ Pour cet exercice, il faut :
 - [`display`](https://www.w3schools.com/cssref/pr_class_display.asp) 
 - [`float`](https://www.w3schools.com/cssref/pr_class_float.asp) 
 - [`border-radius`](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
+- [`margin` auto](https://www.w3schools.com/css/css_margin.asp)
 - Informations complémentaire sur les [`form` et le CSS](https://www.w3schools.com/css/css_form.asp)
 :::
 
