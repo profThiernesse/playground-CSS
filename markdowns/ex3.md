@@ -60,3 +60,32 @@ Pour cette exercice, il faut :
 - colorier le texte de la dernière ligne du tableau.
 
 @[Exerice 1]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh table.html css/style.css css/table.css"})
+
+## Exercice 2
+
+::: Formulaire
+```html
+<form action="" method="post">
+	<label for="nom">Nom</label>
+	<input type="text" name="nom" id="nom" required>
+	<label for="prenom">Prénom</label>
+	<input type="text" name="prenom" id="prenom" required>
+	<fieldset>
+		<caption>Adresse</caption>
+		<label for="rue">rue</label>
+		<input type="text" name="rue" id="rue">
+		<label for="num">Numéro</label>
+		<input type="number" name="num" id="num">
+		<label for="cp">Code Postal</label>
+		<input type="number" name="cp" id="cp">
+		<label for="loc">Localité</label>
+		<input type="text" name="loc" id="loc">
+	</fieldset>
+	<input type="submit" value="Envoyer">
+</form>
+```
+:::
+
+Pour cet exercice, il faut :
+
+@[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh form.html css/style.css css/form.css"})
