@@ -80,8 +80,8 @@ Pour cet exercice, il faut :
 Pour cet exercice, il faut :
 - Définir le police des sections à helvetica.
 - Pour les paragraphes définir une marge tout autour de 20px et faire en sorte que chaque mots s'écrivent avec une majuscule.
-- Les titres 1 doivent être aligné au centre, écrit en rouge et de taille 2em.
-- Les titres 1 doivent avoir une marge intérieure de 10px, être sur un fond rouge et avoir une bordure à gauche de 50px noire continue.
+- Les titres de niveau 1 doivent être aligné au centre, écrit en rouge et de taille 2em.
+- Les titres de niveau 2 doivent avoir une marge intérieure de 10px, être sur un fond rouge et avoir une bordure à gauche de 50px noire continue.
 
 
 @[Exerice 4]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh base.html css/style.css css/base4.css"})
