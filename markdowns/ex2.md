@@ -1,6 +1,6 @@
 # Les sélecteurs
 
-L'adresse suivante fourni les références en terme de sélecteurs CSS : [W3Schools selector](https://www.w3schools.com/cssref/css_selectors.asp)
+L'adresse suivante fournit les références en terme de sélecteurs CSS : [W3Schools selector](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ## Exercice 1
 
@@ -32,9 +32,9 @@ En utilisant les sélecteurs réaliser les mises en forme suivantes :
 - le corps du document doit être écrit en helvetica.
 - les titres de niveau 1 doivent être centrés et écrits en rouge.
 - tous les titres de niveau 2 doivent soulignés.
-- les titres de niveau 2 dans les sections doivent être verts.
-- les titres 2 de niveau dans les articles doivent être bleus.
-- les paragraphes suivant directement un titre de niveeau 2 doivent être en rouge italique.
+- les titres de niveau 2 dans les sections doivent être en vert.
+- les titres de niveau 2 dans les articles doivent être en bleu.
+- les paragraphes suivant directement un titre de niveau 2 doivent être en rouge italique.
 - les paragraphes suivant un titre de niveau 1 doivent être en violet.
 
 @[Exerice 2]({"stubs": ["css/style.css"], "command": "/bin/bash run.sh selecteur.html css/style.css css/selecteur.css"})
